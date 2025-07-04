@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "iveydb.com",
+  "Id": "7a9cfc41-82d0-40dd-a144-98e5182abb88"
+}
